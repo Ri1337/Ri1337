@@ -1,4 +1,3 @@
-* \* New Acc *
 ```python
 life = {
   "name": "RΙΓΣψ"
